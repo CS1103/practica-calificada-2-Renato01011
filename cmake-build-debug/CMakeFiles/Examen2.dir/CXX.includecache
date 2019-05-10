@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Universidad/Ciclo 3/POO II/Examen2/Fight.cpp
+Fight.h
+E:/Universidad/Ciclo 3/POO II/Examen2/Fight.h
+fstream
+-
+iostream
+-
+
+E:/Universidad/Ciclo 3/POO II/Examen2/Fight.h
+vector
+-
+string
+-
+
